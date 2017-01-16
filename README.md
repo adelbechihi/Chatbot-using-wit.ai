@@ -1,5 +1,5 @@
 # Chatbot-using-wit.ai
 
-### run npm install
-### run node server
+[Npm]run npm install
+[Npm]run node server
 #### http://localhost:3000
